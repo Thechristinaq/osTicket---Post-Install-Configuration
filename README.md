@@ -48,7 +48,7 @@ Step 1: Configure Roles, Departments & Teams
 
 Step 2: Allow Users to Create Tickets 
 
-Within your admin panel, click settings, user settings, and check the box "registration required: Require registration and login to create tickets"
+Within the admin panel, click settings, user settings, and check the box "registration required: Require registration and login to create tickets", click save changes
 
 ![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/85760d15-19a5-4fe5-9cde-2be85a9f65d9)
 
@@ -68,7 +68,20 @@ Step 3: Configure Agents and Users
 
 
 Step 4: Configure SLA
-- We will head back over to the admin panel, click manage, SLA 
+- We will head back over to the admin panel, click manage, SLA, add new SLA plan, we will create three SLAs "Sev-A", "Sev-B", and "Sev-C" and their grace periods and schedules
+
+![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/b95941c6-f3f7-4d21-8e01-4ed99d7db6f0)
+
+![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/8646d1de-d2bb-4b6d-958c-63a2ca1e9ed7)
+
+
+Step 5: Configure Help Topics
+
+In the Admin Portal, cick manage, help topics, we will create four help topics "Business Critical Outage", "Personal Computer Issues". "Equipment Request", and "Password Reset"
+
+![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/92591dff-d460-493a-aab1-38eed75c47ee)
+
+![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/2fc347ad-da17-4f4b-b517-5c6caa136dac)
 
 
 
