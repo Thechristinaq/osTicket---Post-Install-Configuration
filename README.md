@@ -48,7 +48,7 @@ Step 1: Configure Roles, Departments & Teams
 
 Step 2: Allow Users to Create Tickets 
 
-Within the admin panel, click settings, user settings, and check the box "registration required: Require registration and login to create tickets", click save changes
+- Within the admin panel, click settings, user settings, and check the box "registration required: Require registration and login to create tickets", click save changes
 
 ![image](https://github.com/thechristinaq/Post-Install-Configuration-/assets/165831241/85760d15-19a5-4fe5-9cde-2be85a9f65d9)
 
